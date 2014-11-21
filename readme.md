@@ -1,4 +1,4 @@
-Arc Refine Guide
+Marketing Automation Refine Guide
 ---
 
-This is a guide for Google Refine for the Architizer team. 
+This is a guide for using Google Refine for Marketing Automation.
